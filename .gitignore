@@ -2,5 +2,6 @@
 !/.git
 !/.gitignore
 !/README.md
+!/example-images
 /Packages/*
 !/Packages/com.argusvrc.scene-builder
