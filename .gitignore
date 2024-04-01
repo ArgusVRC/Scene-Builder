@@ -1,9 +1,6 @@
 /*
 !/.git
-!/.github
 !/.gitignore
-!/.LICENCE
-!/.README.md
-!/Packages
+!/README.md
 /Packages/*
 !/Packages/com.argusvrc.scene-builder
