@@ -1,0 +1,17 @@
+{
+    "name": "com.argusvrc.scene-builder",
+    "version": "0.0.1",
+    "displayName": "Scene Builder",
+    "description": "An editor tool for Unity that allows you to easily combine several scenes into one \"output scene\".",
+    "unity": "2022.3",
+    "unityRelease": "6f1",
+    "keywords": [
+        "Scene",
+        "Builder"
+    ],
+    "author": {
+        "name": "ArgusVRC",
+        "email": "vrcdreamdigitizers@gmail.com",
+        "url": "https://www.argusvrc.com/"
+    }
+}

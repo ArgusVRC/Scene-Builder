@@ -1,0 +1,18 @@
+{
+    "name": "ArgusVRC.SceneBuilder.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:be9b31fd564beca49bab6d147d3175a2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
