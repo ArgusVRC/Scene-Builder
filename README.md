@@ -10,6 +10,7 @@ An editor tool for Unity that allows you to easily combine several scenes into o
 
 ## How to install
 In your Unity project, go to `Window > Package Manager` then click the top left `[+]`, click on `Add package from git URL` and paste this link:
+
 `https://github.com/ArgusVRC/Scene-Builder.git?path=/Packages/com.argusvrc.scene-builder`
 
 Or download the latest package from the [latest release](https://github.com/ArgusVRC/Scene-Builder/releases/latest).
